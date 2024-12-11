@@ -1,0 +1,14 @@
+C:\Users\jairq\PracticasIMP\Consola\bin\Debug\net8.0\Consola.exe
+C:\Users\jairq\PracticasIMP\Consola\bin\Debug\net8.0\Consola.deps.json
+C:\Users\jairq\PracticasIMP\Consola\bin\Debug\net8.0\Consola.runtimeconfig.json
+C:\Users\jairq\PracticasIMP\Consola\bin\Debug\net8.0\Consola.dll
+C:\Users\jairq\PracticasIMP\Consola\bin\Debug\net8.0\Consola.pdb
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.AssemblyInfoInputs.cache
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.AssemblyInfo.cs
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.csproj.CoreCompileInputs.cache
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.dll
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\refint\Consola.dll
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.pdb
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\Consola.genruntimeconfig.cache
+C:\Users\jairq\PracticasIMP\Consola\obj\Debug\net8.0\ref\Consola.dll
